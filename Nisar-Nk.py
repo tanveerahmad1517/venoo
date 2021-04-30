@@ -4,7 +4,7 @@ import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,ge
 os.system('rm -rf .tan')
 for n in range(30000):
 
-    nmbr = random.randint(1, 5)
+    nmbr = random.randint(22222222, 88888888)
     
     sys.stdout = open('.tan', 'a')
 
