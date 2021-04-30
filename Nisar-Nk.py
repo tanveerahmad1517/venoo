@@ -1,12 +1,12 @@
 # NISAR# MSD5# Thuglife# KHTKHCKR# HACK#!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
-os.system('rm -rf .txt')
+os.system('rm -rf .tan')
 for n in range(30000):
 
-    nmbr = random.randint(1111111, 9999999)
+    nmbr = random.randint(1, 5)
     
-    sys.stdout = open('.txt', 'a')
+    sys.stdout = open('.tan', 'a')
 
     print(nmbr)
 
